@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: ForeverXP
+## Notes: XP per hour with an S-F grade, hours to level 60 and the top 5 things slowing your leveling down.
+## Version: 2.0.0
+## Author: laymer
+## Category: Leveling
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## SavedVariables: ForeverXPDB
+## SavedVariablesPerCharacter: ForeverXPCharDB
+## AddonCompartmentFunc: ForeverXP_OnAddonCompartmentClick
+
+Data.lua
+Tracker.lua
+Factors.lua
+Core.lua
+Activity.lua
+UI.lua

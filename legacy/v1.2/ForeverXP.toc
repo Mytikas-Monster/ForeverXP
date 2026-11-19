@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: ForeverXP
+## Notes: XP/hour tracker and leveling efficiency diagnostics
+## Version: 1.2.0
+## SavedVariables: ForeverXPDB
+ForeverXP.lua
